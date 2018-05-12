@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34353'
     url: http://www.gutenberg.org/2009/agents/34353
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30077#Die-Hanse-und-Englandvon-Eduards-III.-bis-auf-Heinrichs-VIII.-Zeit
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2009-09-24'
 gutenberg_type: Text
